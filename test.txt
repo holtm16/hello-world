@@ -1,0 +1,1 @@
+Check status of repository of same name as working repository with 'git status'
